@@ -8,7 +8,7 @@
 
 using namespace std;
 
-Array<int> arrayObj;			//Object for array class
+Array<int> arrayObj;		//Object for array class
 arrayMenu<int> arrayMenuObj;	//Object for array menu class
 
 //Main is only used to call the algorithm menu from the array menu class.
