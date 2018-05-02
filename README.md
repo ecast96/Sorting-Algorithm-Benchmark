@@ -1,15 +1,11 @@
 # Sorting Algorithm Benchmark
  - All work done by Erick Castro
 
-Program was made using Visual Studio 2017.
- - If using any other IDE/Compiler, support for C++11 might be needed.
+Program was made using Visual Studio 2017. If using any other IDE/Compiler, support for C++11 might be needed.
 
-Program is menu-driven, meaning you select what options you want for the sorting algorithms.
- - There are lines commented out that are used for testing/debugging purposes, 
-    e.g. Displaying arrays, writing to file, and displaying individual interation duration.
+Program is menu-driven, meaning you select what options you want for the sorting algorithms. There are lines commented out that are used for testing/debugging purposes (e.g. Displaying arrays, writing to file, and displaying individual interation duration).
 
-Data is saved to a csv file named "results.csv"
- - Times are saved in 100 cell rows
+Data is saved to a csv file named "results.csv". Times are saved in 100 cell rows
 
 When compiling and running, program will display the following menus:
 
