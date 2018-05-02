@@ -32,16 +32,16 @@ When compiling and running, program will display the following menus:
     2 - Array sorted but shuffled at 10%
     3 - Array complete shuffled (random numbers)
     4 - Array in reverse order.
+				
+You select each option by it's left-hand value:
 
-There is a menu for each option:
-    - You select each option by it's left-hand value
-        e.g. Algorithm List: 
-             1 - Insertion Sort 
-             2 - Selection Sort
-             3 - Bubble Sort 
-             ...
-             ...
-             Select Algorithm: //Here you enter 1, 2, 3, etc.
+	Algorithm List:
+	1 - Insertion Sort 
+	2 - Selection Sort
+	3 - Bubble Sort 
+	...
+	...
+	Select Algorithm: //Here you enter 1, 2, 3, etc.
 
 Program can be run without menus:
  - Line 16 in main.cpp will run a specific operation with operations selected.
