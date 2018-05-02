@@ -38,6 +38,9 @@ You select each option by it's left-hand value:
 	...
 	...
 	Select Algorithm: //Here you enter 1, 2, 3, etc.
+	
+[Time_Results.xlsx](Time_Results.xlsx) contains an overall look at the run times for every scenario.
+ - Each iteration is timed in seconds and the mean and standard deviation is calculated for 100 iterations.
 
 Program can be run without menus:
  - Line 16 in main.cpp will run a specific operation with operations selected.
